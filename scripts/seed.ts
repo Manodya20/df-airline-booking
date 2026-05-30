@@ -1,4 +1,5 @@
 import fs from "fs";
+import "dotenv/config";
 import path from "path";
 import { MongoClient } from "mongodb";
 import { generateSchedules } from "../lib/scheduleRules";

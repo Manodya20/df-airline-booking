@@ -1,8 +1,4 @@
 {
   "/page": "app/page.js",
-  "/bookings/page": "app/bookings/page.js",
-  "/api/bookings/route": "app/api/bookings/route.js",
-  "/api/schedules/route": "app/api/schedules/route.js",
-  "/invoice/[reference]/page": "app/invoice/[reference]/page.js",
-  "/api/bookings/[reference]/route": "app/api/bookings/[reference]/route.js"
+  "/api/schedules/route": "app/api/schedules/route.js"
 }
